@@ -37,7 +37,7 @@ def anagrams(alist):
     
     if word_list.index(pair) != len(word_list) - 1 and pair[1] != word_list[word_list.index(pair) + 1][1] :
       numbers_list.append(".")
-  print(numbers_list)
+      
   for number in numbers_list:
     
     if number != ".":
