@@ -1,4 +1,0 @@
-"Hello, World!" program is as simple as writing print("Hello, World!").
-So, we are going to write a different program.
-Instead of implementing the "hello, world" program ...
-Let's try to implement the grep function :)
