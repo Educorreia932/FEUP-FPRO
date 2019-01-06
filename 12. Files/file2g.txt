@@ -1,0 +1,5 @@
+I am file2
+Hello world!
+Hello
+another hello
+End of file

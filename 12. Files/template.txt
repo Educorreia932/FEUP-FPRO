@@ -1,0 +1,4 @@
+Dear <name>,
+This is the body of the e-mail!
+Regards,
+FPRO Student
