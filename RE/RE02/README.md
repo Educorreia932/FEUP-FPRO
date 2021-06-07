@@ -32,4 +32,3 @@ Where:
 - **t** - the number of years that the interest is calculated for
 
 Create a file called [interests.py](interests.py) and write a program that replaces these letters with something a bit more human-readable, and calculate the final amount (A) at the end of the second year, for some varying amounts of money (P) at realistic interest rates (r). 
-

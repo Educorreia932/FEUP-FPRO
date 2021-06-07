@@ -1,4 +1,4 @@
-## Assignment #4: Program flow with turtles
+## Assignment #4: Conditionals and iteration
 
 ### 2. Prime numbers
 
@@ -14,7 +14,7 @@ The program should build a string result with each number in the sequence separa
 - If the number is a multiple of 3, appends the word "Fizz" instead
 - If the number is a multiple of 5, appends the word "Buzz" instead
 - If the number is both a multiple of 3 and 5, nothing is done
-- 
+
 For example, for `n=7`, the final string should be `1 2 Fizz 4 Buzz Fizz 7`
 
 ### 4. Triangles
