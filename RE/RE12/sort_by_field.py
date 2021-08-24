@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Dec 20 10:12:58 2018
-
-@author: Asus
-"""
-
 def sort_by_field(filename, field):
     with open(filename, "r") as file:
         order = {}
@@ -31,3 +24,4 @@ def sort_by_field(filename, field):
             result += line 
             
         return result 
+        

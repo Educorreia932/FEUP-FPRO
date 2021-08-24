@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Dec 20 21:59:17 2018
-
-@author: Asus
-"""
-
 def parse(filename):
     with open(filename) as file:
         lines = file.readlines()

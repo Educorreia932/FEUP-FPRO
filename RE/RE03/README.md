@@ -28,8 +28,12 @@ Python turtle number <n> is cool!
 
 Write a program called [clock.py](clock.py) that produces a turtle clock similar to the one shown below:
 
+![](images/clock.png)
+
 ### 5. Stars
 
 Consider a star-like shape, where each side consists of a straight line with a stamp at its end:
 
 Write a program called [stars.py](stars.py) that draws this shape, with the number of sides provided by user input.
+
+![](images/stars.png)

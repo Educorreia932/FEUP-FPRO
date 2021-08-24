@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jan 10 08:53:29 2019
-
-@author: Asus
-"""
-
 def count_exceptions(f, n1, n2):
     result = 0
     

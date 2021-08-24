@@ -2,7 +2,7 @@
 
 Recitation and away programming assignments.
 
-## RE02 - Simple data
+## [RE02 - Simple data](RE02)
 
 | Exercise                   | File                              |
 |----------------------------|-----------------------------------|
@@ -11,7 +11,7 @@ Recitation and away programming assignments.
 | Input and cast             | [cast.py](RE02/cast.py)           |
 | Operations and operands    | [interests.py](RE02/interests.py) |
 
-## RE03 - Program flow
+## [RE03 - Program flow](RE03)
 
 | Exercise              | File                            |
 |-----------------------|---------------------------------|
@@ -20,7 +20,7 @@ Recitation and away programming assignments.
 | Turtle clock          | [clock.py](RE03/clock.py)       |
 | Stars                 | [stars.py](RE03/stars.py)       |
 
-## RE04 - Program flow with turtles
+## [RE04 - Program flow with turtles](RE04)
 
 | Exercise      | File                            |
 |---------------|---------------------------------|
@@ -29,7 +29,7 @@ Recitation and away programming assignments.
 | Turtle clock  | [clock.py](RE04/clock.py)       |
 | Stars         | [interests.py](RE04/stars.py)   |
 
-## RE05 - Functions
+## [RE05 - Functions](RE05)
 
 | Exercise        | File                                    |
 |-----------------|-----------------------------------------|
@@ -39,7 +39,7 @@ Recitation and away programming assignments.
 | Mastermind      | [mastermind.py](RE05/mastermind.py)     |
 | Get positions   | [getPositions.py](RE05/getPositions.py) |
 
-## RE06 - Strings
+## [RE06 - Strings](RE06)
 
 | Exercise                        | File                                      |
 |---------------------------------|-------------------------------------------|

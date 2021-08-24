@@ -16,4 +16,3 @@ def is_perfect(n):
         return False
   
 print(is_perfect(0))
-      

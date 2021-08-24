@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Dec 13 09:26:24 2018
-
-@author: Asus
-"""
-
 from functools import reduce
 
 def reduce_map_filter(args):

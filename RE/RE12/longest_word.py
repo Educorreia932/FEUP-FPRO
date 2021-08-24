@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Dec 20 09:31:02 2018
-
-@author: Asus
-"""
-
 import urllib.request
 
 def longest_word(url):
